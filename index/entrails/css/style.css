@@ -1,0 +1,17 @@
+.maiin {
+  position: relative;
+  background-color: #3FE0F0;
+  border: 3px;
+  float:left;
+  width:99%;
+  height:99%;
+  overflow: hidden;
+}
+.bt2 {
+	position: absolute;
+	left:0;
+	top:0;
+	}
+
+
+
